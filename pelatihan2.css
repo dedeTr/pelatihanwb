@@ -1,0 +1,26 @@
+.warnaBiru{
+    color: blue;
+}
+.miring{
+    font-style: italic;
+}
+body{
+    /* background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed; */
+    background: url("background.jpg") no-repeat left top fixed
+}
+a:hover{
+    color:silver
+}
+a:visited{
+    color:rgb(0, 255, 42)
+}
+a:link{
+    color: aqua;
+    font-style: oblique;
+}
+a:active{
+    color: yellow
+}

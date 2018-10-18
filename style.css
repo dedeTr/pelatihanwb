@@ -4,4 +4,20 @@
             background-color:rgb(226, 153, 43);
             border-color:rgb(0, 255, 149);
         }
+        a:hover{
+            color:silver
+        }
+        a:visited{
+            color:rgb(0, 255, 42)
+        }
+        a:link{
+            color: aqua;
+            font-style: oblique;
+        }
+        a:active{
+            color: yellow
+        }
+        body{
+            background: url("background.jpg") repeat left top fixed
+        }
     
