@@ -1,23 +1,34 @@
  table,th,td,tr{
             border:2px rgb(180, 103, 31) solid;
             border-collapse: collapse;
-            background-color:rgb(226, 153, 43);
+            background-color:rgb(172, 104, 2);
             border-color:rgb(0, 255, 149);
         }
-        a:hover{
-            color:silver
-        }
-        a:visited{
-            color:rgb(0, 255, 42)
-        }
-        a:link{
-            color: aqua;
-            font-style: oblique;
-        }
-        a:active{
-            color: yellow
-        }
-        body{
-            background: url("background.jpg") repeat left top fixed
-        }
-    
+a:hover{
+    color:silver
+}
+a:visited{
+    color:rgb(0, 255, 42)
+}
+a:link{
+    color: aqua;
+    font-style: oblique;
+}
+a:active{
+    color: yellow
+}
+body{
+    background: url("background.jpg") repeat left top fixed
+}
+.data{
+    text-align: center;
+    background-color: blanchedalmond;
+    font-size: 30pt;
+}
+.alasan{
+    text-align: center;
+    font-style: italic;
+    font-size: 25pt;
+    color: rgb(211, 11, 11);
+    background-color: blueviolet;
+}    
